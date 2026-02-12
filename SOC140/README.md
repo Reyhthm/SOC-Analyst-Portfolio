@@ -73,7 +73,7 @@ The attachment is indeed **Malicious** so we are going to select it.
 ### **Lets close the alert now**
 <br>
 Action Taken: True Positive - Remediation Successful.
-
+<br><br>
 <img width="607" height="440" alt="closealert" src="https://github.com/user-attachments/assets/6643cb92-4e58-4715-a740-2e62c56d0ba7" />
 
 ---
