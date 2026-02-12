@@ -37,7 +37,7 @@ After analysis of hash of email attachment, we can confirm that the attached fil
 ---
 
 
-When we run the file, the content is unreadable and it will open a new URL. However this URL is unavailable. The content was closed due to possible of **CSAM** content.
+When we run the file, the content is unreadable and it will open a new URL. The malicious URL was found to be hosting illegal content and has since been taken down by the hosting provider.
 
 <img width="892" height="538" alt="suslink" src="https://github.com/user-attachments/assets/31f02f6b-1525-4e3d-b268-3b581de62204" />
 
