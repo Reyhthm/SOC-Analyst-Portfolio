@@ -1,8 +1,11 @@
 # 🛡️ Case Study: 	SOC140 - Phishing Mail Detected - Suspicious Task Scheduler
 
 ## 📝 Executive Summary
+
 **Verdict:** True Positive
+
 **Host:** EmilyComp (172.16.17.49)
+
 **Date:** 2021/03/22
 
 ---
@@ -11,6 +14,7 @@
 
 A user received a phishing email which was blocked by the anti-spam system. Here is the detailed infomation of the alert that was triggered.
 <img width="1533" height="476" alt="Incident-under-analysis" src="https://github.com/user-attachments/assets/abcfe997-39fb-4243-be3c-d065a279580c" />
+
 The severity of the alert is **Medium** and we can see the device action is **Blocked**
 <br><br>
 
@@ -57,20 +61,22 @@ Lets start the playbook now.
 <br><br>
 
 <img width="1567" height="604" alt="e1" src="https://github.com/user-attachments/assets/dcc99b47-bac7-4b33-b799-8afd3cb49a07" />
+
 We have an attachment so we going to select **YES**.
-<br><br>
+
 
 <img width="1233" height="632" alt="e2" src="https://github.com/user-attachments/assets/9e8b2c9c-3165-4b81-87d0-09c0db992e23" />
+
 The attachment is indeed **Malicious** so we are going to select it.
-<br><br>
+
 
 <img width="801" height="468" alt="analysisnote" src="https://github.com/user-attachments/assets/7c589946-df05-4a63-98e3-d42901417f63" />
 
-<br><br>
 
 ---
 
 ### **Lets close the alert now**
+
 <br>
 Action Taken: True Positive - Remediation Successful.
 <br><br>
