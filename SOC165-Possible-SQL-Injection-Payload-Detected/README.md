@@ -1,8 +1,11 @@
 # 🛡️ Case Study: 	SOC165 - Possible SQL Injection Payload Detected.
 
 ## 📝 Executive Summary
-**Verdict:** True Positive |
-**Source IP:** 167.99.169.17 |
+
+**Verdict:** True Positive 
+
+**Source IP:** 167.99.169.17 
+
 **Date:** Feb, 25, 2022, 11:34 AM
 
 ---
