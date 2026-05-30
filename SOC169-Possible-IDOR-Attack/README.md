@@ -62,18 +62,23 @@ Based on the indicators identified during the investigation, containment of the 
 ## Closing the Alert.
 
 Artifacts from the findings:
+
 <img width="794" height="476" alt="15" src="https://github.com/user-attachments/assets/f855e441-9a94-44bd-b8f1-0c79fa05d5ff" />
 
 Analyst Note:
+
 <img width="796" height="478" alt="17" src="https://github.com/user-attachments/assets/e8399103-4a21-4d48-8c0c-335d61ad3ae2" />
 
 Escalation to L2:
+
 <img width="787" height="655" alt="16" src="https://github.com/user-attachments/assets/406b576e-fb18-4163-a756-b3787981f869" />
 
 Closing the playbook:
+
 <img width="641" height="454" alt="18" src="https://github.com/user-attachments/assets/d273d97c-0c30-4da2-9d6d-5786ccdc5924" />
 
 Closing Alert:
+
 <img width="602" height="431" alt="19" src="https://github.com/user-attachments/assets/e3ca2b72-fc51-4773-a55a-9dd32a5e1a1b" />
 
 ## Verdict:
